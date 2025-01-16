@@ -1,3 +1,6 @@
 [submodule "prerequisites"]
 	path = prerequisites
 	url = git@github.com:masakiva/Turbin3-Q1-2025-prerequisites.git
+[submodule "solana-starter"]
+	path = solana-starter
+	url = git@github.com:masakiva/Turbin3-Q1-2025-solana-starter.git
